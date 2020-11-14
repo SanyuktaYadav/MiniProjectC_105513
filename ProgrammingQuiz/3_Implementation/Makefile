@@ -1,4 +1,4 @@
 all: 
-	gcc main.c -o output.o
+	gcc main.c -o output.out
 run:
-	./output.o
+	./output.out
