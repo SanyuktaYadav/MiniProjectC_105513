@@ -20,4 +20,4 @@ jobs:
     - name: make test
       run: |
         make test -C ProgrammingQuiz/3_Implementation/
-        valgrind ./ProgrammingQuiz/3_Implementation/output.o
+        valgrind ./ProgrammingQuiz/3_Implementation/output.out
