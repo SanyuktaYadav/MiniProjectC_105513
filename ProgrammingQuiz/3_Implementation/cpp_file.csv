@@ -1,0 +1,5 @@
+Which of the following is called address operator?;*;&;_;%;2
+Which function is used to read a single character from the console in C++?;cin.get(ch);getline(ch);read(ch);scanf(ch);1
+Who created C++?;Bjarne Stroustrup;Dennis Ritchie;Ken Thompson;Brian Kernighan;1
+What does the cerr represent?;Standard error stream;Standard logging stream;Input stream;Output stream;1
+Which of the following cannot be used with the virtual keyword?;Class;Member functions;Constructors;Destructors;3

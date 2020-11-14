@@ -1,0 +1,5 @@
+Which SQL function is used to count the number of rows in a SQL query?;count();number();sum();count(*);4
+Which SQL keyword is used to retrieve a maximum value?;most;top;max;upper;3
+Which of the following SQL clauses is used to DELETE tuples from a database table?;delete;remove;drop;clear;1
+SQL Query to delete all rows in a table without deleting the table (structure, attributes, and indexes);DELETE FROM table_name;DELETE TABLE table_name;DROP TABLE table_name;NONE;1
+If you want to allow age of a person > 18 in the column Age of table Person, then which constraint will be applied to AGE column.;Default;Check;NOT NULL;None;2

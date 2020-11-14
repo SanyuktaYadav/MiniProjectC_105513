@@ -1,0 +1,5 @@
+Which of the following declaration is not supported by C?;String str;char *str;float str = 3e2;Both String str & float str = 3e2;1
+The format identifier %i is also used for _____ data type.;char;int;float;double;2
+What is the scope of an external variable?;Whole source file in which it is defined;From the point of declaration to the end of the file in which it is defined;Any source file in a program;From the point of declaration to the end of the file being compiled;4
+fputs() adds newline character.;True;False;Depends on compiler;Undefined behavior;2
+puts() function adds newline character.;True;False;Depends on compiler;Undefined behavior;1
