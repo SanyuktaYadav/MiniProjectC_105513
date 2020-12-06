@@ -1,3 +1,6 @@
+
+![GitHub repo size](https://img.shields.io/github/repo-size/SanyuktaYadav/MiniProjectC_105513?style=plastic)
+
 # Programming Quiz
 
 
