@@ -5,17 +5,6 @@
 ![Unit testing](https://github.com/SanyuktaYadav/MiniProjectC_105513/workflows/Unit%20testing/badge.svg)
 ![C/C++ CI](https://github.com/SanyuktaYadav/MiniProjectC_105513/workflows/C/C++%20CI/badge.svg)
 
-# Programming Quiz
-
-
-
-**Quiz for Guest User** with Progress Bar
-
-## Sections
-- C
-- CPP
-- Python
-- SQL
 
 
 
